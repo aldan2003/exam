@@ -12,5 +12,9 @@ public class Car_105 {
 	{
 		this.speed=speed;
 	}
+	int get_speed()
+	{
+		return speed;
+	}
 
 }
